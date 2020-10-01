@@ -8,7 +8,7 @@ Please use the following citation:
 @inproceedings{conforti2020stander,
           title={STANDER: An Expert-Annotated Datasetfor News Stance Detection and Evidence Retrieval},
           author={Conforti, Costanza and Berndt, Jakob and Pilehvar, Mohammad Taher and Giannitsarou, Chryssi and Toxvaerd, Flavio and Collier, Nigel} 
-          booktitle={Findings of ACL: EMNLP 2020},
+          booktitle={Findings of EMNLP},
           year={2020}
         }
 ```
@@ -37,6 +37,6 @@ STANDER contains the same targets as in the Twitter stance detection WT–WT cor
 
 ### Contacts
 
-- {cc918, jb2088, mp792, cg349, fmot2, nhc30} @cam.ac.uk
+- {cc918, jb2088} @cam.ac.uk
 - [Cambridge Language Technology Lab](http://ltl.mml.cam.ac.uk/people/)
 - [Cambridge Faculty of Economics](http://www.econ.cam.ac.uk/)
