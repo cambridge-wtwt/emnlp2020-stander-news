@@ -1,4 +1,4 @@
-## Repository for the EMNLP 2020 Findings paper: <br> STANDER: An Expert-Annotated Datasetfor News Stance Detection and Evidence Retrieval
+## Repository for the EMNLP 2020 Findings paper: <br> STANDER: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval
 
 Link to the paper: [STANDER: An Expert-Annotated Datasetfor News Stance Detection and Evidence Retrieval](https://github.com/cambridge-wtwt/emnlp2020-stander-news)
 
